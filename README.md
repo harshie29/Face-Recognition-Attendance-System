@@ -2,7 +2,6 @@
 
 A Python GUI application for marking attendance using face recognition technology. The system captures face images, trains a face recognizer, and tracks attendance by recognizing faces in real-time using a webcam.
 
----
 
 ## Features
 
@@ -12,7 +11,7 @@ A Python GUI application for marking attendance using face recognition technolog
 - Attendance records saved as timestamped CSV files.
 - Simple Tkinter GUI interface for user interaction.
 
----
+
 
 ## Technologies & Libraries Used
 
@@ -25,7 +24,7 @@ A Python GUI application for marking attendance using face recognition technolog
 - CSV module
 - Haar Cascades for face detection
 
----
+
 
 ## File Structure
 
@@ -36,7 +35,7 @@ A Python GUI application for marking attendance using face recognition technolog
 - `ImagesUnknown/` - Folder to store unknown face images detected during recognition.
 - `Attendance/` - Folder to save attendance CSV files.
 
----
+
 
 ## How to Use
 
@@ -47,7 +46,7 @@ A Python GUI application for marking attendance using face recognition technolog
 5. Use **Clear** buttons to clear the ID or Name fields.
 6. Click **Quit** to exit the application.
 
----
+
 
 ## Requirements
 
